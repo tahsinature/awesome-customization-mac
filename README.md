@@ -11,9 +11,12 @@ Hide the unwanted icons from menu-bar.
     3. postman
     4. Cocorestclient
     editor:
-      1. vscode
-      2. vscode inside
-      sublime
+      Visual Studio Code
+      Visual Studio Code Insiders
+      WebStorm
+      IntelliJ IDEA
+      Sublime Text
+      
       3. Mockoon
       Pikka
       Table Plus
