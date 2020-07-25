@@ -1,6 +1,9 @@
 # awesome-customization-mac
 Hide the unwanted icons from menu-bar.
 
+enable allow from anywhere option
+https://blog.pcrisk.com/mac/12915-how-to-open-applications-created-by-unidentified-developer
+
 
 1. Setting up terminal
 2. Setting up note tools
