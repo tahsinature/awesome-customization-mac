@@ -41,6 +41,14 @@ macOS is the OS developers tend to pick as a primary environment most of the tim
 
 *moom (compare with tools like Spectacle, Divvy - Mizage)
 
+
+### Media
+
+#### Video Players
+
+* [Movist Pro](https://movistprime.com) - My first choice
+* [IINA](https://github.com/iina/iina) - It's an open source project. My 2nd choice. But I use both
+
 Hide the unwanted icons from menu-bar.
 
 enable allow from anywhere option
