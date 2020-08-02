@@ -15,7 +15,7 @@ macOS is the OS developers tend to pick as a primary environment most of the tim
 
 
 
-## Setting Up Development Environment
+### Setting Up Development Environment
 
 #### Setting up terminals
 
@@ -31,7 +31,7 @@ macOS is the OS developers tend to pick as a primary environment most of the tim
 
 
 
-## Productivity Tools
+### Productivity Tools
 
 #### Moom
 > Moom is a tool when you start to use it, it will be really hard for you to go back.
