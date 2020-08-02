@@ -1,4 +1,4 @@
-Awesome Customization (Mac)
+Awesome Customization 
 ----
  is the environment developers pick as a primary environment most of the time. Here I will try to focus on some tools for MacOS that will increase your productivity extremely. Feel free to **star** and **fork**.
 
