@@ -1,6 +1,6 @@
 Awesome Customization 
 ----
- is the environment developers pick as a primary environment most of the time. Here I will try to focus on some tools for MacOS that will increase your productivity extremely. Feel free to **star** and **fork**.
+macOS is the OS developers tend to pick as a primary environment most of the time. Here I will try to focus on some tools for macOS that will increase your productivity extremely. Feel free to **star** and **fork**.
 
 <!--**Explanation**-->
 
