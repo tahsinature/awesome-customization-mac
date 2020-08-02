@@ -43,7 +43,7 @@ copyq
 itsycal
 display menu
 
-moom
+moom (compare with tools like Spectacle, Divvy - Mizage)
 bettertouchtool
 cleanmymac
 bitbar
