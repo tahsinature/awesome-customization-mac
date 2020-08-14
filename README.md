@@ -105,3 +105,4 @@ shuttle
 tyke
 macdown
 altDrag
+jq
