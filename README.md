@@ -24,6 +24,7 @@ macOS is the OS developers tend to pick as a primary environment most of the tim
 * [iTerm2](https://github.com/gnachman/iTerm2) - The best terminal emulator for MacOS.
 * [alacritty](https://github.com/alacritty/alacritty) - This is the alternative terminal I prefer. Because:<br /> ▸ This is a cross-platform, GPU-accelerated terminal emulator. Pretty much available for everything (even android Termux). <br />▸ When I work heavy stuffs like: 7/8 containers running in docker, or running unit, integration, end2end tests, if I do those stuffs on `alacritty`, I get better result.
 * [Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - I love Zsh because of it's tons of plugins.
+* [zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh.
 * [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - It's an open source, community-driven framework for managing your zsh configuration.
 * [fzf](https://github.com/junegunn/fzf) - It is a general-purpose command-line fuzzy finder. Not only for filtering files and folders but for pretty much everything you get as an output in your terminal. To know more about my fzf setup please read [this](#comeback) article.
 * [fd](https://github.com/sharkdp/fd) - This is simply an alternative to `find`. But, with insane performance improvement. And it also has features like respecting `.gitignore` content automatically rather than manually excluding them.
